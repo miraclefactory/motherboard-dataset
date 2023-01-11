@@ -1,7 +1,5 @@
 # Motherboard Dataset (research project)
-[<img src="https://img.shields.io/badge/DOI-kaggle-red.svg?logo=LOGO">](https://www.kaggle.com/datasets/yuelinxin/computer-motherboard-production-defects) 
-<img src="https://img.shields.io/badge/YOLOv5-Yes-blueviolet.svg?logo=LOGO"> 
-<img src="https://img.shields.io/badge/YOLOv7-Yes-COLOR.svg?logo=LOGO">    
+[<img src="https://img.shields.io/badge/DOI-kaggle-red.svg?logo=LOGO">](https://www.kaggle.com/datasets/yuelinxin/computer-motherboard-production-defects) <img src="https://img.shields.io/badge/YOLOv5-Yes-blueviolet.svg?logo=LOGO"> <img src="https://img.shields.io/badge/YOLOv7-Yes-COLOR.svg?logo=LOGO">    
 
 This repo contains a dataset of motherboard production defects for object detection models, 
 this is currently the biggest public dataset on motherboard defects (as of Dec. 2022). 
