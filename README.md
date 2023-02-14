@@ -7,7 +7,7 @@ This dataset is built for YOLOv5, YOLOv7 (PyTorch) & YOLOv8.
 
 ### Download links
 > [YOLOv5-PyTorch](https://staticfile.osl.ink/staticFiles/Motherboard.yolov5pytorch.zip) (221.78MB)    
-> [YOLOv7-PyTorch](https://staticfile.osl.ink/staticFiles/Motherboard.yolov7pytorch.zip) (221.78MB)
+> [YOLOv7-PyTorch](https://staticfile.osl.ink/staticFiles/Motherboard.yolov7pytorch.zip) (221.78MB)    
 > [YOLOv8](https://staticfile.osl.ink/staticFiles/Motherboard.yolov8.zip) (222.62MB)
 
 ### Sample Images
