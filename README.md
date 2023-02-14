@@ -3,7 +3,7 @@
 
 This repo contains a dataset of motherboard production defects for object detection models, 
 this is currently the biggest public dataset on motherboard defects (as of Dec. 2022). 
-This dataset is built for YOLOv5, YOLOv7 (PyTorch) & YOLOv8.  
+This dataset is built for YOLOv5 (PyTorch), YOLOv7 (PyTorch) & YOLOv8.  
 
 ### Download links
 > [YOLOv5-PyTorch](https://staticfile.osl.ink/staticFiles/Motherboard.yolov5pytorch.zip) (221.78MB)    
