@@ -1,13 +1,14 @@
-# Motherboard Dataset (research project)
-<img src="https://img.shields.io/badge/DOI-kaggle-red.svg?logo=LOGO"> <img src="https://img.shields.io/badge/YOLOv5-Yes-blueviolet.svg?logo=LOGO"> <img src="https://img.shields.io/badge/YOLOv7-Yes-COLOR.svg?logo=LOGO">    
+# Motherboard Production Defect Dataset [research]
+<img src="https://img.shields.io/badge/DOI-kaggle-red.svg?logo=LOGO"> <img src="https://img.shields.io/badge/YOLOv5-Yes-blueviolet.svg?logo=LOGO"> <img src="https://img.shields.io/badge/YOLOv7-Yes-COLOR.svg?logo=LOGO"> <img src="https://img.shields.io/badge/YOLOv8-Yes-orange.svg?logo=LOGO">     
 
 This repo contains a dataset of motherboard production defects for object detection models, 
 this is currently the biggest public dataset on motherboard defects (as of Dec. 2022). 
-This dataset is built for YOLOv5 and YOLOv7 (PyTorch).  
+This dataset is built for YOLOv5, YOLOv7 (PyTorch) & YOLOv8.  
 
 ### Download links
 > [YOLOv5-PyTorch](https://staticfile.osl.ink/staticFiles/Motherboard.yolov5pytorch.zip) (221.78MB)    
 > [YOLOv7-PyTorch](https://staticfile.osl.ink/staticFiles/Motherboard.yolov7pytorch.zip) (221.78MB)
+> [YOLOv8](https://staticfile.osl.ink/staticFiles/Motherboard.yolov8.zip) (222.62MB)
 
 ### Sample Images
 Some sample images from the dataset are available in the `sample_images` folder.
