@@ -1,4 +1,4 @@
-# Motherboard Production Defect Dataset [research]
+# Motherboard Production Defect Dataset
 <img src="https://img.shields.io/badge/DOI-kaggle-red.svg?logo=LOGO"> <img src="https://img.shields.io/badge/YOLOv5-Yes-blueviolet.svg?logo=LOGO"> <img src="https://img.shields.io/badge/YOLOv7-Yes-COLOR.svg?logo=LOGO"> <img src="https://img.shields.io/badge/YOLOv8-Yes-orange.svg?logo=LOGO">     
 
 This repo contains a dataset of motherboard production defects for object detection models, 
