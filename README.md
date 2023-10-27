@@ -22,3 +22,14 @@ Some sample images from the dataset are available in the `sample_images` folder.
 ### Class Distribution
 <img width="860" alt="data_distribution" src="https://user-images.githubusercontent.com/89094576/211546161-83b5bf9c-eb1c-400a-90d6-4609c83479b7.png">
 
+### Citation
+If you find this dataset useful in your project, please consider citing our work:
+```
+@misc{motherboard2022,
+    title={Motherboard Production Defect Dataset}, 
+    author={Yuelin Xin and Zihan Zhou and Yuxuan Xia and Jiuqiang Li and Qiyu Ou},
+    year={2022},
+    url={www.kaggle.com/datasets/yuelinxin/computer-motherboard-production-defects},
+    note={Kaggle Dataset}
+}
+```
