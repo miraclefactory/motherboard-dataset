@@ -8,7 +8,7 @@ This dataset is built for YOLOv5 (PyTorch), YOLOv7 (PyTorch), YOLOv8 and OpenAI 
 ### Download links
 > [YOLOv5-PyTorch](https://drive.google.com/file/d/1LkM2NKS0i7NPM5-MMLFdsqg2GvKq7VGw/view?usp=drive_link) (221.78MB)    
 > [YOLOv7-PyTorch](https://drive.google.com/file/d/1-WzVNdGJZWYlAwufJsnvFOCqbruJUdA9/view?usp=drive_link) (221.78MB)    
-> [YOLOv8](https://drive.google.com/file/d/1ex6QgNFH8MK1G_ZnLfZMiGPUTXYG2GBM/view?usp=drive_link) (222.62MB)
+> [YOLOv8](https://drive.google.com/file/d/1ex6QgNFH8MK1G_ZnLfZMiGPUTXYG2GBM/view?usp=drive_link) (222.62MB)     
 > [CLIP](https://drive.google.com/file/d/1_UbXKZxE74cdoegBFdOz4V8KMaX4-U3R/view?usp=drive_link) (232.3MB)
 
 ### Sample Images
