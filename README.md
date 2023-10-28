@@ -25,11 +25,12 @@ Some sample images from the dataset are available in the `sample_images` folder.
 ### Citation
 If you find this dataset useful in your project, please consider citing our work:
 ```
-@misc{motherboard2022,
-    title={Motherboard Production Defect Dataset}, 
-    author={Yuelin Xin and Zihan Zhou and Yuxuan Xia and Jiuqiang Li and Qiyu Ou},
-    year={2022},
-    url={www.kaggle.com/datasets/yuelinxin/computer-motherboard-production-defects},
-    note={Kaggle Dataset}
+ @misc{yuelin xin_zihan zhou_yuxuan xia_jiuqiang li_qiyu ou_2023,
+	title={Computer Motherboard Production Defects},
+	url={https://www.kaggle.com/ds/2764127},
+	DOI={10.34740/KAGGLE/DS/2764127},
+	publisher={Kaggle},
+	author={Yuelin Xin and Zihan Zhou and Yuxuan Xia and Jiuqiang Li and Qiyu Ou},
+	year={2023}
 }
 ```
